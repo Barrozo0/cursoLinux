@@ -19,4 +19,4 @@ root@debian9:/var/clonereplocal# git clone /var/repositorio1/: clonar repositór
 
 git diff: verifica oque foi modificado
 
-
+~teste

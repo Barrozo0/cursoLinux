@@ -1,0 +1,22 @@
+git config --local user.name "Luiz Barrozo"
+
+git config --local user.email "luizfernandobarrozo95@gmail.com"
+
+
+git add nomedoarquivo/diretório: para add ao git
+
+git add .: pega tudo dentro do diretório
+
+git rm --cached <file>: retira do git
+
+git commit -m "Primeiro Commit Passwd": fazer o commit do arquivo/diretório
+
+git log: verifica o log dos commits
+
+root@debian9:/var/clonereplocal# git clone /var/repositorio1/: clonar repositório local
+
+(use "git checkout -- <file>..." to discard changes in working directory)
+
+git diff: verifica oque foi modificado
+
+
